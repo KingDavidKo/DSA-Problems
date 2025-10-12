@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KingDavidKo/DSA-Problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingDavidKo/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KingDavidKo/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/KingDavidKo/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
