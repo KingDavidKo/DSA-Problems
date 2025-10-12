@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingDavidKo/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
 | ------- |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KingDavidKo/DSA-Problems/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
