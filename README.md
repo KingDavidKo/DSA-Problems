@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/KingDavidKo/DSA-Problems/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KingDavidKo/DSA-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KingDavidKo/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KingDavidKo/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KingDavidKo/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KingDavidKo/DSA-Problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
