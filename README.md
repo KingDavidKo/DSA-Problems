@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2350-find-closest-number-to-zero](https://github.com/KingDavidKo/DSA-Problems/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
