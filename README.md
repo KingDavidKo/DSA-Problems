@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,18 +161,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
 ## Union Find
 |  |
 | ------- |
