@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KingDavidKo/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KingDavidKo/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -234,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
