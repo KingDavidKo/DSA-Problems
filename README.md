@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KingDavidKo/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KingDavidKo/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
