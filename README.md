@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KingDavidKo/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/KingDavidKo/DSA-Problems/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -213,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
