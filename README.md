@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1585-the-kth-factor-of-n](https://github.com/KingDavidKo/DSA-Problems/tree/master/1585-the-kth-factor-of-n) |
 ## Recursion
 |  |
 | ------- |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/KingDavidKo/DSA-Problems/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
