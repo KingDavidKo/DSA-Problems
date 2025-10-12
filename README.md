@@ -148,17 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -220,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
