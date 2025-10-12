@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/KingDavidKo/DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
