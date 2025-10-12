@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2350-find-closest-number-to-zero](https://github.com/KingDavidKo/DSA-Problems/tree/master/2350-find-closest-number-to-zero) |
+| [2360-substring-with-largest-variance](https://github.com/KingDavidKo/DSA-Problems/tree/master/2360-substring-with-largest-variance) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingDavidKo/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
+| [2360-substring-with-largest-variance](https://github.com/KingDavidKo/DSA-Problems/tree/master/2360-substring-with-largest-variance) |
 ## Monotonic Stack
 |  |
 | ------- |
