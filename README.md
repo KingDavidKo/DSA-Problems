@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KingDavidKo/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3379-score-of-a-string](https://github.com/KingDavidKo/DSA-Problems/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
