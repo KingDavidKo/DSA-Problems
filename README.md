@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KingDavidKo/DSA-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KingDavidKo/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KingDavidKo/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KingDavidKo/DSA-Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KingDavidKo/DSA-Problems/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
