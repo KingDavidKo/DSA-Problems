@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 | [0680-valid-palindrome-ii](https://github.com/KingDavidKo/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
