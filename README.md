@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/KingDavidKo/DSA-Problems/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KingDavidKo/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KingDavidKo/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/KingDavidKo/DSA-Problems/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KingDavidKo/DSA-Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KingDavidKo/DSA-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
