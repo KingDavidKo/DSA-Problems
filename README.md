@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
