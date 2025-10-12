@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingDavidKo/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KingDavidKo/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KingDavidKo/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KingDavidKo/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingDavidKo/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KingDavidKo/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -131,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
