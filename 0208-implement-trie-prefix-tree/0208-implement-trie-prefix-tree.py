@@ -1,32 +1,31 @@
 class Trie:
 
     def __init__(self):
-        self.root={}
+        self.root = [None] * 27
 
     def insert(self, word: str) -> None:
         node = self.root
         for i in word:
-            if i not in node:
-                node[i] = {}
-            node = node[i]
-        node["."] = "."
+            if node[ord(i) - ord('a')] is None:
+                node[ord(i) - ord('a')] = [None] * 27
+            node = node[ord(i) - ord('a')]
+        node[-1] = 0
 
     def search(self, word: str) -> bool:
         node = self.root
         for i in word:
-            if i not in node:
+            if node[ord(i) - ord('a')] is None:
                 return False
-            node = node[i]
-        
-        return "." in node
+            node = node[ord(i) - ord('a')]
+        return node[-1] is not None
         
 
     def startsWith(self, prefix: str) -> bool:
         node = self.root
         for i in prefix:
-            if i not in node:
+            if node[ord(i) - ord('a')] is None:
                 return False
-            node = node[i]
+            node = node[ord(i) - ord('a')]
         return True
         
 
