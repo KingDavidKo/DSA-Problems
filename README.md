@@ -126,6 +126,7 @@ A collection of DSA Leetcode questions and solutions
 | [0020-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Divide and Conquer
 |  |
@@ -174,6 +175,7 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
@@ -191,6 +193,7 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0623-add-one-row-to-tree) |
@@ -216,6 +219,7 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KingDavidKo/DSA-Problems/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KingDavidKo/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
@@ -291,4 +295,12 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/KingDavidKo/DSA-Problems/tree/master/1585-the-kth-factor-of-n) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
