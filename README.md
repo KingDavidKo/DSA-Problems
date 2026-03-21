@@ -7,6 +7,7 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/KingDavidKo/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KingDavidKo/DSA-Problems/tree/master/0027-remove-element) |
@@ -142,6 +143,7 @@ A collection of DSA Leetcode questions and solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KingDavidKo/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/KingDavidKo/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KingDavidKo/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/KingDavidKo/DSA-Problems/tree/master/0191-number-of-1-bits) |
@@ -160,6 +162,7 @@ A collection of DSA Leetcode questions and solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KingDavidKo/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/KingDavidKo/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
