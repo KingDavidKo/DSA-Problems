@@ -72,6 +72,7 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KingDavidKo/DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KingDavidKo/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/KingDavidKo/DSA-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KingDavidKo/DSA-Problems/tree/master/0066-plus-one) |
