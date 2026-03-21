@@ -72,6 +72,7 @@ A collection of DSA Leetcode questions and solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/KingDavidKo/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KingDavidKo/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/KingDavidKo/DSA-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KingDavidKo/DSA-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KingDavidKo/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KingDavidKo/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -168,6 +169,7 @@ A collection of DSA Leetcode questions and solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KingDavidKo/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/KingDavidKo/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KingDavidKo/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingDavidKo/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -317,4 +319,8 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KingDavidKo/DSA-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
