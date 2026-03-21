@@ -20,6 +20,7 @@ A collection of DSA Leetcode questions and solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingDavidKo/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KingDavidKo/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ A collection of DSA Leetcode questions and solutions
 | [0013-roman-to-integer](https://github.com/KingDavidKo/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KingDavidKo/DSA-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KingDavidKo/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KingDavidKo/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -132,6 +134,7 @@ A collection of DSA Leetcode questions and solutions
 | [0020-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KingDavidKo/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KingDavidKo/DSA-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
