@@ -6,10 +6,8 @@ class Solution:
             if i-1 in nums:
                 continue
             else:
-                count = 1
                 j = i + 1
                 while j in nums:
-                    count += 1
                     j += 1
-                output = max(output, count)
+                output = max(output, j - i)
         return output     
