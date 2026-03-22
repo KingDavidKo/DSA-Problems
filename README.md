@@ -94,6 +94,7 @@ A collection of DSA Leetcode questions and solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/KingDavidKo/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KingDavidKo/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KingDavidKo/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/KingDavidKo/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
@@ -114,6 +115,7 @@ A collection of DSA Leetcode questions and solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KingDavidKo/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KingDavidKo/DSA-Problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KingDavidKo/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/KingDavidKo/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0141-linked-list-cycle) |
@@ -302,6 +304,7 @@ A collection of DSA Leetcode questions and solutions
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KingDavidKo/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
