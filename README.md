@@ -36,6 +36,7 @@ A collection of DSA Leetcode questions and solutions
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-last-stone-weight](https://github.com/KingDavidKo/DSA-Problems/tree/master/1046-last-stone-weight) |
 | [2350-find-closest-number-to-zero](https://github.com/KingDavidKo/DSA-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2360-substring-with-largest-variance](https://github.com/KingDavidKo/DSA-Problems/tree/master/2360-substring-with-largest-variance) |
 ## Hash Table
@@ -156,6 +157,7 @@ A collection of DSA Leetcode questions and solutions
 | [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/KingDavidKo/DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/KingDavidKo/DSA-Problems/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
