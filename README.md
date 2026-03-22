@@ -352,4 +352,8 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KingDavidKo/DSA-Problems/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
