@@ -24,6 +24,7 @@ A collection of DSA Leetcode questions and solutions
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KingDavidKo/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KingDavidKo/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
@@ -125,6 +126,7 @@ A collection of DSA Leetcode questions and solutions
 | [0088-merge-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KingDavidKo/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KingDavidKo/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KingDavidKo/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/KingDavidKo/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -177,6 +179,7 @@ A collection of DSA Leetcode questions and solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/KingDavidKo/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/KingDavidKo/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KingDavidKo/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/KingDavidKo/DSA-Problems/tree/master/0704-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/KingDavidKo/DSA-Problems/tree/master/0907-koko-eating-bananas) |
