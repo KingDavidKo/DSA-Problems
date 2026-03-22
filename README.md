@@ -20,6 +20,7 @@ A collection of DSA Leetcode questions and solutions
 | [0118-pascals-triangle](https://github.com/KingDavidKo/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingDavidKo/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KingDavidKo/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KingDavidKo/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -279,6 +280,7 @@ A collection of DSA Leetcode questions and solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KingDavidKo/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 ## Matrix
