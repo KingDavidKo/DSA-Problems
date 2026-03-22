@@ -192,6 +192,7 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0100-same-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -201,6 +202,7 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -210,6 +212,7 @@ A collection of DSA Leetcode questions and solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KingDavidKo/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0100-same-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/KingDavidKo/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -218,6 +221,7 @@ A collection of DSA Leetcode questions and solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/KingDavidKo/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0226-invert-binary-tree) |
