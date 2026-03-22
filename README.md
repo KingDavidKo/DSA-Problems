@@ -56,6 +56,7 @@ A collection of DSA Leetcode questions and solutions
 | [0202-happy-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KingDavidKo/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
@@ -101,6 +102,7 @@ A collection of DSA Leetcode questions and solutions
 | [0127-word-ladder](https://github.com/KingDavidKo/DSA-Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/KingDavidKo/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/KingDavidKo/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -131,6 +133,7 @@ A collection of DSA Leetcode questions and solutions
 | [0049-group-anagrams](https://github.com/KingDavidKo/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/KingDavidKo/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KingDavidKo/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
