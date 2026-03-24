@@ -59,6 +59,7 @@ A collection of DSA Leetcode questions and solutions
 | [0217-contains-duplicate](https://github.com/KingDavidKo/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KingDavidKo/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KingDavidKo/DSA-Problems/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/KingDavidKo/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KingDavidKo/DSA-Problems/tree/master/0621-task-scheduler) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/KingDavidKo/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -105,6 +106,7 @@ A collection of DSA Leetcode questions and solutions
 | [0139-word-break](https://github.com/KingDavidKo/DSA-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/KingDavidKo/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KingDavidKo/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/KingDavidKo/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/KingDavidKo/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/KingDavidKo/DSA-Problems/tree/master/0974-reorder-data-in-log-files) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KingDavidKo/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -114,6 +116,7 @@ A collection of DSA Leetcode questions and solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KingDavidKo/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/KingDavidKo/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/KingDavidKo/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
